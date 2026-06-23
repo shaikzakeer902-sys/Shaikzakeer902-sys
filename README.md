@@ -73,13 +73,70 @@ A futuristic glassmorphism-inspired website showcasing premium UI/UX design, ani
 
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 Achievements, Certifications & Communities
 
-🥇 Google AI Student Certificate
+<div align="center">
 
-🥇 Organ Donation Awareness Certification
+### 🎓 Education & Learning
 
-🥇 Tata Certification Program
+✅ Google Gemini AI Student Certificate
+
+✅ Google AI Education Program Participant
+
+✅ Indian Organ Donation Awareness Certification
+
+✅ Tata Group Professional Development Certification
+
+---
+
+### 👨‍💻 Communities & Memberships
+
+🌟 Google Developer Community Member
+
+🌟 AI Technology Enthusiast
+
+🌟 Open Source Learner
+
+🌟 Student Innovator
+
+---
+
+### 🚀 Highlights
+
+🏅 Creator of CHEETAI AI Studio
+
+🏅 Creator of SAMG AI
+
+🏅 Creator of Liquid Glass Landing
+
+🏅 Building AI-powered web applications
+
+🏅 Exploring next-generation AI technologies
+
+🏅 Active learner in Artificial Intelligence and Full-Stack Development
+
+</div>
+
+---
+
+# 🎯 Future Goals
+
+🚀 Become a world-class AI Engineer
+
+🌍 Build innovative products used globally
+
+🤖 Create advanced AI assistants and agents
+
+💡 Launch successful technology startups
+
+📚 Continue learning and sharing knowledge
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Google+Developer+Community+Member;AI+Developer;Student+Innovator;Future+AI+Engineer;Building+The+Future+With+AI" />
+</p>
+
 
 ---
 
